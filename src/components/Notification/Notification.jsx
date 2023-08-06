@@ -1,4 +1,4 @@
-import { TextNotify } from './Notification.styled';
+import { TextNotify } from './Notification.syled';
 import PropTypes from 'prop-types'; // ES6
 
 export const Notification = ({ message }) => {
